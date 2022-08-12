@@ -1,2 +1,2 @@
-# datastructure-all-in-javascript
-DataStructre all implemented on javascripting language.
+# Data Structure with (JavaScript -JS)
+# Aim to make datastructure classes with less time complexity and space complexity.
