@@ -3,8 +3,7 @@
 
 
 
-<span style="color: green">#### **Anyone can Marge and shared knowledge and can be part of this Experiment.**  </span>
-
+#### **Anyone can Marge and shared knowledge and can be part of this Experiment.**  
 
 ## Inbuild Data Structures.
 
