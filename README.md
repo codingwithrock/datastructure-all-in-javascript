@@ -2,7 +2,7 @@
 ### Aim to make datastructure classes with less time complexity and space complexity.
 #### '0969DA' **Anyone can Marge and shared knowledge and can be part of this Experiment.** 
 
-
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 
 ## Inbuild Data Structures.
 
